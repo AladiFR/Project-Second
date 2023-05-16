@@ -1,0 +1,10 @@
+.main-header {
+    font-family: "Fira Code", Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: red;
+}
+
+.main-header nav {
+    margin-left: 72px;
+}
