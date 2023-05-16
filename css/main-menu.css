@@ -1,0 +1,6 @@
+.main-menu {
+    display: inline-flex;
+    margin-right: 40px;
+    align-items: center;
+    flex-direction: column;
+}
