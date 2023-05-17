@@ -1,10 +1,11 @@
 .main-header {
-    font-family: "Fira Code", Arial, Helvetica, sans-serif;
+    font-family: "Manrope", Arial, Helvetica, sans-serif;
     display: flex;
     justify-content: space-evenly;
-    background-color: red;
+    background-color: #fff;
+    color: #535C72;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 20px 0px;
 }
 
-.main-header nav {
-    margin-left: 72px;
-}
