@@ -1,0 +1,21 @@
+.main-button {
+    text-decoration: none;
+    display: inline-block;
+    font-family: inherit;
+    cursor: pointer;
+    border: 1px solid #535C72;
+    color: #535C72;
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 12px 16px;
+    margin-right: 20px;
+    margin-left: 164px;
+}
+
+.main-button.-purple {
+    border: none;
+    background-color: #7065F0;
+    color: #fff;
+    margin-left: 0;
+    margin-right: 100px;
+}
