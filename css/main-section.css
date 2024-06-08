@@ -1,0 +1,12 @@
+.main-section {
+    background-color: #F7F7FD;
+}
+
+.main-section .hero-image {
+    display: flex;
+    justify-content: end;
+}
+
+.main-section .hero-content {
+    width: 600px;
+}
